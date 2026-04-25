@@ -29,6 +29,9 @@ My core interests are Cloud Security and Security Operations Center (SOC), and e
   <img src="https://github.com/user-attachments/assets/fe93dbb1-00e4-4660-8445-4ab2549bc54e" width="22" /> ISO/IEC 27001:2022 Lead Auditor
   <br/>
   <img src="https://github.com/user-attachments/assets/591efcf2-7597-468d-a3f0-2355ec75aed4" width="22" /> Microsoft Azure Fundamentals (AZ-900)
+  <br/>
+  <img src="https://github.com/user-attachments/assets/70f0f722-804b-49c7-a141-4d4744b089e9" width="22" /> AWS Cloud Practitioner (CLF-C02)
+
 </p>
 
 ---
