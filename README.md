@@ -17,33 +17,63 @@ My core interests are Cloud Security and Security Operations Center (SOC), and e
 
 
 
-<h3 align="left">Certifications:</h3>
+## Certifications
 
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/cca3b65c-016d-4112-9c25-9a93cfcbf206" /> ISC² Certified in Cybersecurity (CC)
-
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/72f153ee-c160-41ec-aa66-bfb4d8709f75" /> CompTIA Network+
-
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/28d69570-72c7-451d-a6d6-706ed6e87826" /> CompTIA Security+
-
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/fe93dbb1-00e4-4660-8445-4ab2549bc54e" /> Mastermind Assurance ISO/IEC 27001:2022 Lead Auditor
-
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/591efcf2-7597-468d-a3f0-2355ec75aed4" /> Microsoft Azure Fundamentals (AZ-900)
-
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a
-href="https://www.vmware.com" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/39247fbf-f258-43be-9cca-aba48c4d10c4" alt="vmware" width="50" height="50"/> </a> </p>
-
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linktr.ee/benjaminmacartan" target="blank"><img align="center" src="https://github.com/user-attachments/assets/25efa606-bb21-4244-898b-ca6a37b01cf6" alt="https://linktr.ee/benjaminmacartan/" height="30" width="40" /></a> <a href="https://linkedin.com/in/benjaminmacartan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benjaminmacartan/" height="30" width="40" /></a>
+  <img src="https://github.com/user-attachments/assets/cca3b65c-016d-4112-9c25-9a93cfcbf206" width="22" /> ISC2 Certified in Cybersecurity (CC)
+  <br/>
+  <img src="https://github.com/user-attachments/assets/72f153ee-c160-41ec-aa66-bfb4d8709f75" width="22" /> CompTIA Network+
+  <br/>
+  <img src="https://github.com/user-attachments/assets/28d69570-72c7-451d-a6d6-706ed6e87826" width="22" /> CompTIA Security+
+  <br/>
+  <img src="https://github.com/user-attachments/assets/fe93dbb1-00e4-4660-8445-4ab2549bc54e" width="22" /> ISO/IEC 27001:2022 Lead Auditor
+  <br/>
+  <img src="https://github.com/user-attachments/assets/591efcf2-7597-468d-a3f0-2355ec75aed4" width="22" /> Microsoft Azure Fundamentals (AZ-900)
+</p>
 
-  
-<br>
+---
 
+## Languages and Tools
+
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
+  </a>
+
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" />
+  </a>
+
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" />
+  </a>
+
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  </a>
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  </a>
+
+  <a href="https://www.vmware.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/39247fbf-f258-43be-9cca-aba48c4d10c4" width="45" />
+  </a>
+</p>
+
+---
+
+## Connect with me
+
+<p align="left">
+  <a href="https://linktr.ee/benjaminmacartan" target="_blank">
+    <img src="https://github.com/user-attachments/assets/25efa606-bb21-4244-898b-ca6a37b01cf6" width="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/benjaminmacartan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" />
+  </a>
+</p>
+
+---
 
