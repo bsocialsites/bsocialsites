@@ -7,7 +7,7 @@ Thank you for visiting my profile. I look forward to hearing from you.
 
 <h3 align="left">About Me:</h3>
 
-I am a current PhD researcher in Biosystems and Food Engineering. Details of my current PhD is here 👉 [My PhD](https://teagasc.ie/about/research--innovation/the-walsh-scholars-programme/current-walsh-scholars/benjamin-macartan/)
+I am a currently a Postdoctoral Researcher. 
 
 I am equipped with varying professional experiences including four years of teaching, three years as an administrator, customer relationship management, project management and research. Possesses prolific team spirit, analytical, creative, research, communication, organizational and ICTs skills.
 
