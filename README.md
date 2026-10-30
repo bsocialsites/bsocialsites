@@ -7,7 +7,7 @@ Thank you for visiting my profile. I look forward to hearing from you.
 
 <h3 align="left">About Me:</h3>
 
-I am a currently a Postdoctoral Researcher. 
+I am currently a Postdoctoral Researcher. 
 
 I am equipped with varying professional experiences including four years of teaching, three years as an administrator, customer relationship management, project management and research. Possesses prolific team spirit, analytical, creative, research, communication, organizational and ICTs skills.
 
